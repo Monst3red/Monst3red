@@ -15,7 +15,7 @@
 ```diff
 📈 Boss list
 
-📌 github.com/Zenroxx - Boss level => 101%
+📌 github.com/Zenroxx   - Boss level => 101%
 📌 github.com/zerowwDev - Boss level => 101%
 ```
 
