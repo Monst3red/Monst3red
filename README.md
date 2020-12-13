@@ -1,12 +1,12 @@
 ```diff
-- 👀 15 years old
+! 👀 15 years old
 ```
 
 ```diff
-- ☔️ French developer 
+! ☔️ French developer 
 ```
 
 ```diff
-- 🐍 Python
-- 🔫 C# (little)
+! 🐍 Python
+! 🔫 C# (little)
 ```
