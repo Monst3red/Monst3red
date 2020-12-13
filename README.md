@@ -1,16 +1,18 @@
-```diff
-! 👀 15 years old
-```
+`` 
+**Information:**
 
-```diff
-! ☔️ French developer 
-```
-
-```diff
-! 🐍 Python
-! 🔫 C# (little)
-```
+👀 15 years old,
+☔️ French developer
+`` 
 
 `` 
-👀 15 years old
+L
+🐍 Python
+🔫 C# (little)
+`` 
+
+``
+📈 Boss list
+
+📌 > github.com/Zenroxx - Boss level => 101%
 `` 
