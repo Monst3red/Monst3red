@@ -1,3 +1,27 @@
 ```diff
- texte
+🧠 Information:
+
+👀 15 years old
+👻 French developer
+```
+
+```diff
+🌌 Language:
+
+🐍 Python
+🌜 C# (little)
+```
+
+```diff
+📈 Boss list
+
+📌 github.com/Zenroxx - Boss level => 101%
+📌 github.com/zerowwDev - Boss level => 101%
+```
+
+```diff
+📉 Skid list
+
+📌 github.com/NAOYY      - Skid level => 101%
+📌 github.com/Stanley-GF - Skid level =>  80%
 ```
