@@ -9,7 +9,7 @@
 🌌 Language:
 
 🐍 Python
-🌜 C# (little)
+🌜 C# 
 ```
 
 ```diff
