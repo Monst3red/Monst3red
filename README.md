@@ -22,5 +22,6 @@
 ```diff
 📉 Skid list
 
+📌 github.com/TN-NT - Skid level =>  101%
 📌 github.com/Stanley-GF - Skid level =>  80%
 ```
