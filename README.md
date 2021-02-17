@@ -1,3 +1,5 @@
+![Frame 1cafe movie](https://media.discordapp.net/attachments/811746139589574680/811746202126123058/hold.gif)
+
 ```diff
 🧠 Information:
 
