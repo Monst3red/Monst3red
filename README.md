@@ -1,4 +1,4 @@
-![Frame 1cafe movie](https://media.discordapp.net/attachments/811746139589574680/811746988382486558/a_e0455a359ddf3c87f9c24176656467b9.gif)
+![Frame 1cafe movie](https://media.discordapp.net/attachments/811753382208995362/811753914084360213/29ca_2.gif)
 
 ```diff
 🧠 Information:
