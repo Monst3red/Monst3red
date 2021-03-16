@@ -28,4 +28,4 @@
 📌 github.com/Stanley-GF - Skid level =>  80%
 ```
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Monst3red&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monst3red&layout=compact)](https://github.com/Monst3red/github-readme-stats)
