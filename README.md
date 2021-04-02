@@ -1,2 +1,2 @@
 
-# Follow or debitage
+![Hi](https://media.discordapp.net/attachments/808358388798455848/827549216749649930/a_e0455a359ddf3c87f9c24176656467b9.gif)
