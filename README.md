@@ -9,5 +9,6 @@
 🐍 > Python
 🐨 > Golang
 ```
-
-# (https://komarev.com/ghpvc/?username=Its-Vichy&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Its-Vichy&color=blue">
+</p>
